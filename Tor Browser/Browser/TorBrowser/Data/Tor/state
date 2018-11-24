@@ -1,0 +1,67 @@
+# Tor state file last generated on 2018-08-04 15:25:31 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=AF4997738E0CFC014CD04FB09A670D2C5F1E79A4 nickname=DuckYou sampled_on=2018-07-23T21:48:19 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=500FE4D6B529855A2F95A0CB34F2A10D5889E8C1 nickname=nastja sampled_on=2018-07-24T10:22:17 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=9634FF450315C691E1E2185636318EAF457E4227 nickname=mccowan sampled_on=2018-08-01T02:21:21 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=D1FF3FB4BB72471F17EFA88A040F8A4AAE085F7B nickname=dvbhorst sampled_on=2018-07-26T14:18:12 sampled_by=0.3.3.7 listed=1 confirmed_on=2018-07-25T05:19:10 confirmed_idx=0 pb_use_attempts=15.000000 pb_use_successes=15.000000 pb_circ_attempts=25.000000 pb_circ_successes=25.000000 pb_successful_circuits_closed=25.000000
+Guard in=default rsa_id=16672A88338BD011B1CAAD8940FBCB09BD20A88E nickname=Torshammer3 sampled_on=2018-08-02T20:55:59 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=6B88E20FEE8EB47F1A8E30207F327005C61A013D nickname=slacknet sampled_on=2018-08-01T00:10:36 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=361D33C96D0F161275EE67E2C91EE10B276E778B nickname=cxx4freedom sampled_on=2018-07-31T01:53:53 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=3239007CE1FB2ECDFDF2067DF23B949295DC5EF6 nickname=TOR2DFN01a sampled_on=2018-07-23T14:23:34 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=1119A89E729DB65839FB232A1E0F8669B0AE84DF nickname=zerodivided sampled_on=2018-07-23T17:17:10 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=BB801013CABC71687D7D73C710C63918BD5C87D6 nickname=Belgium sampled_on=2018-07-23T11:54:34 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=9844B981A80B3E4B50897098E2D65167E6AEF127 nickname=0x3d004 sampled_on=2018-08-02T19:16:33 sampled_by=0.3.3.7 listed=1 confirmed_on=2018-07-29T08:42:02 confirmed_idx=1 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=1.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=958C79DC73C961D37A25C65B8C07CCE761016B72 nickname=ApertureScience sampled_on=2018-07-26T14:20:53 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=F08A525ACA965CF6A55F0587BF4B7373D98B954E nickname=Unnamed sampled_on=2018-07-25T17:05:37 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=F0F5074A6DADD3DC22E1FAA18FD6D89CBC52771A nickname=dc6jgk7b sampled_on=2018-07-25T13:20:04 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=4CF31755D0CE122C650ECE7E59AF4F3575E26EB2 nickname=okthx sampled_on=2018-08-04T07:10:54 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=5DB9AE27A44EB7B476CC04A66C67A71C97A001E6 nickname=Chenjesu sampled_on=2018-07-26T02:22:13 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=9AFCA13F09D75D4B529BA70B02498551352DD2EF nickname=VeespRU1 sampled_on=2018-07-27T22:58:09 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=E1D0BA78D83BC0A5E7F1A791973022AE15C3548E nickname=firelay0 sampled_on=2018-07-25T02:22:29 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=73A9297A6741DF33F4D1B7BB935B30B6A1D25B52 nickname=trfra sampled_on=2018-07-23T20:35:26 sampled_by=0.3.3.7 listed=1
+Guard in=default rsa_id=ADDC2AC86E1DC49FA4C18764D99952D26061AA89 nickname=PineA64ARMv8 sampled_on=2018-07-27T03:51:57 sampled_by=0.3.3.7 listed=1
+TorVersion Tor 0.3.3.7
+LastWritten 2018-08-04 09:55:31
+TotalBuildTimes 261
+CircuitBuildAbandonedCount 8
+CircuitBuildTimeBin 375 15
+CircuitBuildTimeBin 425 31
+CircuitBuildTimeBin 475 40
+CircuitBuildTimeBin 525 20
+CircuitBuildTimeBin 575 18
+CircuitBuildTimeBin 625 19
+CircuitBuildTimeBin 675 23
+CircuitBuildTimeBin 725 11
+CircuitBuildTimeBin 775 9
+CircuitBuildTimeBin 825 12
+CircuitBuildTimeBin 875 5
+CircuitBuildTimeBin 925 6
+CircuitBuildTimeBin 975 5
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 3
+CircuitBuildTimeBin 1175 2
+CircuitBuildTimeBin 1225 3
+CircuitBuildTimeBin 1275 3
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1375 2
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1575 3
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1775 2
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2175 1
+CircuitBuildTimeBin 2775 1
+CircuitBuildTimeBin 2925 1
+CircuitBuildTimeBin 3425 1
+CircuitBuildTimeBin 4175 1
+CircuitBuildTimeBin 5275 1
+CircuitBuildTimeBin 6225 1
+CircuitBuildTimeBin 6275 1
+CircuitBuildTimeBin 6325 1
+CircuitBuildTimeBin 7125 1
+CircuitBuildTimeBin 7425 1
+CircuitBuildTimeBin 12075 1
